@@ -891,13 +891,13 @@ button.swiper-pagination-bullet {
 
 @font-face {
   font-family: 'DINCondensed';
-  src: url("./fonts/DINCondensed.eot");
-  src: url("./fonts/DINCondensed.eot") format("embedded-opentype"), url("./fonts/DINCondensed.woff2") format("woff2"), url("./fonts/DINCondensed.woff") format("woff"), url("./fonts/DINCondensed.ttf") format("truetype"), url("./fonts/DINCondensed.svg#DINCondensed") format("svg"); }
+  src: url("../fonts/DINCondensed.eot");
+  src: url("../fonts/DINCondensed.eot") format("embedded-opentype"), url("../fonts/DINCondensed.woff2") format("woff2"), url("../fonts/DINCondensed.woff") format("woff"), url("../fonts/DINCondensed.ttf") format("truetype"), url("../fonts/DINCondensed.svg#DINCondensed") format("svg"); }
 
 @font-face {
   font-family: 'DINCondensedBold';
-  src: url("./fonts/DINCondensedBold.eot");
-  src: url("./fonts/DINCondensedBold.eot") format("embedded-opentype"), url("./fonts/DINCondensedBold.woff2") format("woff2"), url("./fonts/DINCondensedBold.woff") format("woff"), url("./fonts/DINCondensedBold.ttf") format("truetype"), url("./fonts/DINCondensedBold.svg#DINCondensedBold") format("svg"); }
+  src: url("../fonts/DINCondensedBold.eot");
+  src: url("../fonts/DINCondensedBold.eot") format("embedded-opentype"), url("../fonts/DINCondensedBold.woff2") format("woff2"), url("../fonts/DINCondensedBold.woff") format("woff"), url("../fonts/DINCondensedBold.ttf") format("truetype"), url("../fonts/DINCondensedBold.svg#DINCondensedBold") format("svg"); }
 
 :root {
   --app-height: 100vh;
