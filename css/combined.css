@@ -5513,7 +5513,7 @@ textarea.form-control {
       display: block; } }
 
 .parallax {
-  background-image: url("./images/new-page/hero-bg.jpg");
+  background-image: url("../images/new-page/hero-bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
